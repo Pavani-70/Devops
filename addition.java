@@ -1,5 +1,5 @@
 public class addition{
-public void static main(String args[])
+public static void main(String args[])
 {
 if(args.length<2){
 System.out.println("please provide two numbers as parameters");
